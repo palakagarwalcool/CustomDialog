@@ -1,0 +1,7 @@
+com/example/apidialog/BuildConfig.java
+ com.example.apidialog.BuildConfig
+com/example/apidialog/MainActivity.java
+ com.example.apidialog.MainActivity
+ com.example.apidialog.MainActivity$1
+ com.example.apidialog.MainActivity$1$1
+ com.example.apidialog.MainActivity$2
